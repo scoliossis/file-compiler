@@ -1,4 +1,4 @@
-# file-compiler
+# file compiler
 just a silly little app to shrink folders into 1 files, not particularly useful considering everyone has 7zip / winrar
 
 input a folder path into the text box to turn it into one file
