@@ -25,7 +25,7 @@ public class Main{
     }
 
     public static String scoliosis = System.getenv("APPDATA") + "\\scoliosis";
-    public static String baseName = System.getenv("APPDATA") + "\\scoliosis\\BombParty";
+    public static String baseName = System.getenv("APPDATA") + "\\scoliosis\\FileCompiler";
     public static String resourcesFile = baseName + "\\resources";
 
     public static void loadresources() {
